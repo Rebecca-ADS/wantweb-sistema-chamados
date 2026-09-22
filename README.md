@@ -1,8 +1,8 @@
 # wantweb-sistema-chamados
 Sistema web de gerenciamento de chamados desenvolvido em PHP e MySQL.
-# 🎫 WantWeb — Sistema de Gerenciamento de Chamados
+# WantWeb — Sistema de Gerenciamento de Chamados
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 O **WantWeb** é um sistema web de gerenciamento de chamados desenvolvido como projeto acadêmico.
 
@@ -12,38 +12,38 @@ O projeto utiliza conceitos de sistemas de atendimento e contact center, como **
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Desenvolver uma solução web simples para registrar, organizar, acompanhar e controlar chamados desde sua abertura até o encerramento.
 
 ---
 
-## 👥 Público-alvo
+## Público-alvo
 
 O sistema possui três perfis principais:
 
-- 👤 **Solicitante** — abre e acompanha seus chamados.
-- 🎧 **Atendente** — realiza o atendimento e registra as soluções.
-- 🛠️ **Administrador** — gerencia usuários, categorias e informações do sistema.
+-  **Solicitante** — abre e acompanha seus chamados.
+-  **Atendente** — realiza o atendimento e registra as soluções.
+-  **Administrador** — gerencia usuários, categorias e informações do sistema.
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 As tecnologias previstas para o desenvolvimento são:
 
-- 🐘 PHP
-- 🗄️ MySQL
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚙️ JavaScript
-- 🔀 Git
-- 🐙 GitHub
-- 🎨 Figma
+-  PHP
+-  MySQL
+-  HTML5
+-  CSS3
+-  JavaScript
+-  Git
+-  GitHub
+-  Figma
 
 ---
 
-## 📋 Principais funcionalidades
+##  Principais funcionalidades
 
 - Cadastro de usuários
 - Login e autenticação
@@ -62,7 +62,7 @@ As tecnologias previstas para o desenvolvimento são:
 
 ---
 
-## 🔄 Fluxo do chamado
+##  Fluxo do chamado
 
 ```text
 ABERTURA
